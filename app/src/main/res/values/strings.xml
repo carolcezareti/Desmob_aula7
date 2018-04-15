@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string name="buscar_fila">fila</string>
+    <string name="botao_buscar">Buscar</string>
+    <string name="txt_numero">Número:</string>
+    <string name="txt_descricao">Descrição:</string>
+</resources>
